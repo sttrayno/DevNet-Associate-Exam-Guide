@@ -1,15 +1,24 @@
-￼
-# DevNet Associate Exam Guide
+￼# DevNet Associate Exam Guide
 
-The following guide outlines collection of resources and typical Jargon.
+The following guide outlines collection of resources and explains some typical jargon you may hear around the DevNet associate exam.
 
-## Exam format
+## What is DevNet
 
-The exam consists of 100 Questions and candidates have 120 minutes to complete. Exam questions include multiple choice, drag and drop, fill in the blank. There are no simulations where you as a candidate are expected to code. However fill in the blank question types may test similar knowledge.
+DevNet is the single resource for all Developer resources at Cisco. Whether you're a seasoned developer or work in infrastructure and looking to pick up more skills in software this is the main resource for all things developing on top of Cisco. To help people on this journey, Cisco have included the DevNet content in their certifcation tracks as of Feburary 2020, this document will give you the lowdown on how to start preparing for them.
+
+## I'm new to this, where should I sart
+
+One of the best resources if you're familair with Cisco technologies but just getting started with DevNet is a video series by Hank Preston called the [Learn network programmability basics course](https://developer.cisco.com/video/net-prog-basics/). This is a great place to start if you're new to this and looking to understand whats involved.
+
+## Ok, whats the exam format?
+
+The Devnet certification track has a number of levels. DevNet Associate which is equivalent to CCNA (this requires you to pass one exam 900-201), DevNet Professional, which is equivalent to CCNP level and DevNet specialists for people looking to specialise in a single area (DevOps, Enterprise Automation, DC Automation, IoT, Collaboration etc). Passing the DevNet specialist exams gets you a DevNet specialist certifcation in that area. To pass the DevNet professional level you must have at least one of these exams and the DevNet Core exam 900-301.
+
+If you're new the best place to start is probably DevNet associate. The exam consists of 100 Questions and candidates have 120 minutes to complete. Exam questions include multiple choice, drag and drop and fill in the blank. There are no simulations where you as a candidate are expected to code, however fill in the blank question types may test similar knowledge for example to complete a Python code exerpt.
 
 ## Blueprint
 
-If you’re going for DevNet Associate this should be your absolute starting point. This blueprint outlines the skills of the minimum qualified candidate and the skills that will be tested in the exam. Questions for the exam are wrote against this 
+If you’re going for DevNet Associate this should one of your first starting points. This blueprint outlines the skills of the minimum qualified candidate and the skills that will be tested in the exam. Questions for the exam are wrote against this blueprint so this is the best place to understand what areas you need to focus on and cover so you are prepared for the exam.
 
 Every Cisco exam has a blueprint so it’s very good practice to review this and benchmark your own knowledge against this.
 
@@ -35,7 +44,7 @@ https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901
 
 Hands on learning is a great way to solidify some of the knowledge tested in the exam as candidates are expected to have applied knowledge. Some options for hands on learning include:
 
-* DevNet Learning Labs:
+* [DevNet Learning Labs](https://developer.cisco.com/startnow/): Selection of curated content
 
 * Network Automation Workshop: 
 
