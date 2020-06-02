@@ -52,7 +52,7 @@ Cisco Learning Library - [Official DevNet Associate Fundamentals course from Cis
 
 ## Books
 
-For those who like to use a book for certifcation study. There is also a book from CiscoPress specifically for the DEVASC exam. Hard copy is officially released however availability is limited. The ebook version is scheduled to be released in July.
+For those who like to use a book for certifcation study. There is also a book from CiscoPress specifically for the DEVASC exam. The hard copy is officially released however availability is limited currently but can be ordered. The ebook version is scheduled to be released in July.
 
 [Hard Copy](https://www.amazon.co.uk/dp/0136642969/ref=cm_sw_r_cp_api_i_jbT1EbQCBD4DE)
 
