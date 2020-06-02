@@ -1,6 +1,6 @@
 # DevNet Associate Exam Guide
 
-The following guide outlines collection of resources and explains some typical jargon you may hear around the DevNet associate exam.
+The following guide outlines collection of resources and explains some typical jargon you may hear around the DevNet associate exam and provides an introduction to the world of DevNet for those who have potentially heard about the new certifications but aren't sure where to start.
 
 ## What is DevNet
 
