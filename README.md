@@ -26,29 +26,29 @@ Every Cisco exam has a blueprint so it’s very good practice to review this and
 
 Here are some Blueprints from the Cisco Software track
 
-[DevNet Associate]()
+[DevNet Associate](https://www.cisco.com/c/dam/en_us/training-events/le31/le46/cln/marketing/exam-topics/200-901-DEVASC.pdf)
 
-[DevNet Core]()
+[DevNet Core](https://www.cisco.com/c/dam/en_us/training-events/le31/le46/cln/marketing/exam-topics/350-901-DEVCOR.pdf)
 
-[DevNet IoT]()
+[DevNet IoT](https://www.cisco.com/c/dam/en_us/training-events/le31/le46/cln/marketing/exam-topics/300-915-DEVIOT.pdf)
 
-[DevNet DevOps]()
+[DevNet DevOps](https://www.cisco.com/c/dam/en_us/training-events/le31/le46/cln/marketing/exam-topics/300-910-DEVOPS.pdf)
 
-[Devnet Enterprise Automation]()
+[Devnet Enterprise Automation](https://www.cisco.com/c/dam/en_us/training-events/le31/le46/cln/marketing/exam-topics/300-435-ENAUTO.pdf)
 
-[DevNet DC Automation]()
+[DevNet DC Automation](https://www.cisco.com/c/dam/en_us/training-events/le31/le46/cln/marketing/exam-topics/300-635-DCAUTO.pdf)
 
-[Devnet SP Autoamtion]()
+[Devnet SP Autoamtion](https://www.cisco.com/c/dam/en_us/training-events/le31/le46/cln/marketing/exam-topics/300-535-SPAUTO.pdf)
 
 ## Self paced video learning
 
-You have a few options for self paced video content. This isn't an exhaustive list but these are some of the most popular options that I have personally came across and heard good things about included below:
+You have a few options for self paced video content and it's available from all the usual sources. This isn't an exhaustive list but these are some of the most popular options that I have personally came across and heard good things about included below:
 
 Pluralsight - [This highly rated course by Nick Russo](https://www.pluralsight.com/paths/cisco-certified-devnet-associate-devasc-200-901)
 
 CBT Nuggets - [A comprehensive set of videos from CBT Nuggets](https://www.cbtnuggets.com/certification-playlist/cisco/devnet-associate)
 
-Cisco Learning Library [Official DevNet Associate Fundamentals course from Cisco Learning Library](https://developer.cisco.com/certification/fundamentals/)
+Cisco Learning Library - [Official DevNet Associate Fundamentals course from Cisco Learning Library](https://developer.cisco.com/certification/fundamentals/)
 
 ## Books
 
