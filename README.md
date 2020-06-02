@@ -8,11 +8,11 @@ DevNet is the single resource for all Developer resources at Cisco. Whether you'
 
 ## I'm new to this, where should I sart
 
-One of the best resources if you're familair with Cisco technologies but just getting started with DevNet is a video series by Hank Preston called the [Learn network programmability basics course](https://developer.cisco.com/video/net-prog-basics/). This is a great place to start if you're new to this and looking to understand whats involved.
+One of the best resources if you're familair with Cisco technologies but just getting started with DevNet and want to understand what it's all about is a video series by Hank Preston called the [Learn network programmability basics course](https://developer.cisco.com/video/net-prog-basics/). This is a great place to start if you're new to this and looking to understand whats involved.
 
 ## Ok, whats the exam format?
 
-The Devnet certification track has a number of levels. DevNet Associate which is equivalent to CCNA (this requires you to pass one exam 900-201), DevNet Professional, which is equivalent to CCNP level and DevNet specialists for people looking to specialise in a single area (DevOps, Enterprise Automation, DC Automation, IoT, Collaboration etc). Passing the DevNet specialist exams gets you a DevNet specialist certifcation in that area. To pass the DevNet professional level you must have at least one of these exams and the DevNet Core exam 900-301.
+The DevNet certification track has a number of levels which if you've done a Cisco exam will be very familiar. Firstly theres DevNet Associate which is equivalent to CCNA (this requires you to pass one exam 900-201), DevNet Professional, which is equivalent to CCNP level and DevNet specialists for people looking to specialise in a single area (DevOps, Enterprise Automation, DC Automation, IoT, Collaboration etc). Passing the DevNet specialist exams gets you a DevNet specialist certifcation in that area. To pass the DevNet professional level you must have at least one of these exams and the DevNet Core exam 900-301.
 
 If you're new the best place to start is probably DevNet associate. The exam consists of 100 Questions and candidates have 120 minutes to complete. Exam questions include multiple choice, drag and drop and fill in the blank. There are no simulations where you as a candidate are expected to code, however fill in the blank question types may test similar knowledge for example to complete a Python code exerpt.
 
