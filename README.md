@@ -48,6 +48,6 @@ Hands on learning is a great way to solidify some of the knowledge tested in the
 
 * [Network Automation Workshop](https://github.com/sttrayno/Network-Automation-Tooling): A collection of hands on labs from the comminity which cover many of the topics included in the exam.
 
-Both options above you can use against your own environment or you can use the [DevNet sandbox](developer.cisco.com/sandbox_ to have a physical environment you can use the above labs.
+Both options above you can use against your own environment or you can use the [DevNet sandbox](developer.cisco.com/sandbox) to have a physical environment you can use the above labs.
 
 ## Mock exam
