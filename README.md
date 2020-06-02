@@ -27,11 +27,17 @@ Every Cisco exam has a blueprint so it’s very good practice to review this and
 Here are some Blueprints from the Cisco Software track
 
 [DevNet Associate]()
+
 [DevNet Core]()
+
 [DevNet IoT]()
+
 [DevNet DevOps]()
+
 [Devnet Enterprise Automation]()
+
 [DevNet DC Automation]()
+
 [Devnet SP Autoamtion]()
 
 ## Self paced video learning
