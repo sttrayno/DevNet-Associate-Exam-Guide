@@ -1,4 +1,4 @@
-￼# DevNet Associate Exam Guide
+# DevNet Associate Exam Guide
 
 The following guide outlines collection of resources and explains some typical jargon you may hear around the DevNet associate exam.
 
