@@ -16,6 +16,8 @@ The Devnet certification track has a number of levels. DevNet Associate which is
 
 If you're new the best place to start is probably DevNet associate. The exam consists of 100 Questions and candidates have 120 minutes to complete. Exam questions include multiple choice, drag and drop and fill in the blank. There are no simulations where you as a candidate are expected to code, however fill in the blank question types may test similar knowledge for example to complete a Python code exerpt.
 
+[Cisco Certifications](https://github.com/sttrayno/DevNet-Assocaite-Exam-Guide/blob/master/images/Screenshot%202020-06-03%20at%2000.23.30.png?raw=true)
+
 ## Blueprint
 
 If you’re going for DevNet Associate this should one of your first starting points. This blueprint outlines the skills of the minimum qualified candidate and the skills that will be tested in the exam. Questions for the exam are wrote against this blueprint so this is the best place to understand what areas you need to focus on and cover so you are prepared for the exam.
