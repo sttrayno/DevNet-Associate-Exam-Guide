@@ -26,7 +26,7 @@ Every Cisco exam has a blueprint so it’s very good practice to review this and
 
 You have a few options for self paced video content. Some popular options are included below:
 
-Pluralsight - [This highly rated course by Nick Russo]https://www.pluralsight.com/paths/cisco-certified-devnet-associate-devasc-200-901
+Pluralsight - [This highly rated course by Nick Russo](https://www.pluralsight.com/paths/cisco-certified-devnet-associate-devasc-200-901)
 
 CBT Nuggets - [A comprehensive set of videos from CBT Nuggets](https://www.cbtnuggets.com/certification-playlist/cisco/devnet-associate)
 
