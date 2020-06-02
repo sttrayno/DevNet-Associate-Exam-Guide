@@ -14,7 +14,7 @@ One of the best resources if you're familair with Cisco technologies but just ge
 
 The DevNet certification track has a number of levels which if you've done a Cisco exam will be very familiar. Firstly theres DevNet Associate which is equivalent to CCNA (this requires you to pass one exam 900-201), DevNet Professional, which is equivalent to CCNP level and DevNet specialists for people looking to specialise in a single area (DevOps, Enterprise Automation, DC Automation, IoT, Collaboration etc). Passing the DevNet specialist exams gets you a DevNet specialist certifcation in that area. To pass the DevNet professional level you must have at least one of these exams and the DevNet Core exam 900-301.
 
-If you're new the best place to start is probably DevNet associate. The exam consists of 100 Questions and candidates have 120 minutes to complete. Exam questions include multiple choice, drag and drop and fill in the blank. There are no simulations where you as a candidate are expected to code, however fill in the blank question types may test similar knowledge for example to complete a Python code exerpt.
+If you're new the best place to start is probably DevNet associate. For the exam candidates have 120 minutes to complete and exam questions include multiple choice, drag and drop and fill in the blank formats There are no simulations where you as a candidate are expected to code, however fill in the blank question types may test similar knowledge for example to complete a Python code exerpt.
 
 ![Cisco Certifications](https://github.com/sttrayno/DevNet-Assocaite-Exam-Guide/blob/master/images/Screenshot%202020-06-03%20at%2000.23.30.png?raw=true)
 
