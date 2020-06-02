@@ -36,20 +36,18 @@ Cisco Learning Library
 
 There is also a book from CiscoPress specifically for the DEVASC exam. Hard copy is officially released however availability is limited. The ebook version is scheduled to be released in July.
 
-https://www.amazon.co.uk/dp/0136642969/ref=cm_sw_r_cp_api_i_jbT1EbQCBD4DE
+[Hard Copy](https://www.amazon.co.uk/dp/0136642969/ref=cm_sw_r_cp_api_i_jbT1EbQCBD4DE)
 
-https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136677338
+[Soft Copy(https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136677338)
 
 ## Labs
 
 Hands on learning is a great way to solidify some of the knowledge tested in the exam as candidates are expected to have applied knowledge. Some options for hands on learning include:
 
-* [DevNet Learning Labs](https://developer.cisco.com/startnow/): Selection of curated content
+* [DevNet Learning Labs](https://developer.cisco.com/startnow/): Selection of curated content from DevNet
 
-* Network Automation Workshop: 
+* [Network Automation Workshop](https://github.com/sttrayno/Network-Automation-Tooling): A collection of hands on labs from the comminity which cover many of the topics included in the exam.
 
-A collection of hands on labs which cover many of the topics included in the exam.
-
-Both options above you can use against your own environment or you can use the DevNet sandbox developer.cisco.com/sandbox to have a physical environment you can use the above labs.
+Both options above you can use against your own environment or you can use the [DevNet sandbox](developer.cisco.com/sandbox_ to have a physical environment you can use the above labs.
 
 ## Mock exam
