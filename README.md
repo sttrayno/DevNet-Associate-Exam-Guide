@@ -4,11 +4,11 @@ The following guide outlines collection of resources and explains some typical j
 
 ## What is DevNet
 
-DevNet is the single resource for all Developer resources at Cisco. Whether you're a seasoned developer or work in infrastructure and looking to pick up more skills in software this is the main resource for all things developing on top of Cisco. To help people on this journey, Cisco have included the DevNet content in their certifcation tracks as of Feburary 2020, this document will give you the lowdown on how to start preparing for them.
+Cisco DevNet is the single resource for all Developer related at Cisco. Whether you're a seasoned developer wanting to understand what Cisco has you can leverage or work in infrastructure and looking to pick up more skills in software this is the main resource for all things developing on top of Cisco. To help people on this journey, Cisco have included the DevNet content in their certifcation tracks as of Feburary 2020, this document will give you the lowdown on how to start preparing for them and some useful resources to get your started.
 
-## I'm new to this, where should I sart
+## I'm new to this, where should I start
 
-One of the best resources if you're familair with Cisco technologies but just getting started with DevNet and want to understand what it's all about is a video series by Hank Preston called the [Learn network programmability basics course](https://developer.cisco.com/video/net-prog-basics/). This is a great place to start if you're new to this and looking to understand whats involved.
+One of the best resources if you're familair with Cisco technologies but just getting started with DevNet and want to understand what it's all about is a video series by Hank Preston called the [Learn network programmability basics course](https://developer.cisco.com/video/net-prog-basics/). This is a great place to start if you're new to this and looking to understand whats involved. Hank sets the context around what Network Automation is about and how softare skills can help you on your day to day job.
 
 ## Ok, whats the exam format?
 
