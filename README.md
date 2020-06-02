@@ -38,7 +38,7 @@ There is also a book from CiscoPress specifically for the DEVASC exam. Hard copy
 
 [Hard Copy](https://www.amazon.co.uk/dp/0136642969/ref=cm_sw_r_cp_api_i_jbT1EbQCBD4DE)
 
-[Soft Copy(https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136677338)
+[Soft Copy](https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136677338)
 
 ## Labs
 
