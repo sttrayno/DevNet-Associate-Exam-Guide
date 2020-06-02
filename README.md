@@ -24,9 +24,19 @@ If you’re going for DevNet Associate this should one of your first starting po
 
 Every Cisco exam has a blueprint so it’s very good practice to review this and benchmark your own knowledge against this.
 
+Here are some Blueprints from the Cisco Software track
+
+[DevNet Associate]()
+[DevNet Core]()
+[DevNet IoT]()
+[DevNet DevOps]()
+[Devnet Enterprise Automation]()
+[DevNet DC Automation]()
+[Devnet SP Autoamtion]()
+
 ## Self paced video learning
 
-You have a few options for self paced video content. Some popular options are included below:
+You have a few options for self paced video content. This isn't an exhaustive list but these are some of the most popular options that I have personally came across and heard good things about included below:
 
 Pluralsight - [This highly rated course by Nick Russo](https://www.pluralsight.com/paths/cisco-certified-devnet-associate-devasc-200-901)
 
